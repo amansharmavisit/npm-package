@@ -4,6 +4,7 @@
     "scripts": {
       "start": "node index"
     },
+    "main": "src/index",
     "source": "src/index",
     "files": [
     "src"
