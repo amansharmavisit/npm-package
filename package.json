@@ -9,7 +9,9 @@
     "files": [
     "src"
   ],
-    "dependencies": {},
+    "dependencies": {
+      "react": "^18.2.0"
+    },
     "devDependencies": {}
   }
   
