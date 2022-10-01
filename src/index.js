@@ -20,3 +20,8 @@ export function testFunction (...params) {
     console.log(params);
     return params;
 }
+
+export function testBranchFunction (...params) {
+    console.log(params);
+    return params;
+}
